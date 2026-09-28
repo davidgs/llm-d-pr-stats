@@ -1,0 +1,6 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    # NOTE: update the owner/repo below if this ends up hosted elsewhere.
+    url: https://github.com/davidgs/llm-d-pr-stats/security/advisories/new
+    about: Please report security vulnerabilities privately — see SECURITY.md, do not open a public issue here.

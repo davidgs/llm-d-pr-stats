@@ -147,7 +147,13 @@ When more than one category is run:
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md). Bug reports and feature requests
+have templates under [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/);
+PRs use the template at [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md).
+
+## Security
+
+See [SECURITY.md](SECURITY.md) for how to report vulnerabilities.
 
 ## License
 
