@@ -1,0 +1,11 @@
+{
+  "//": "Copy this file (e.g. to terms/intel.json) to define a new category. Delete this comment key before use.",
+  "label": "Intel",
+  "description": "One-line description of what this category covers.",
+  "terms": [
+    "Intel",
+    "\"Intel GPU\"",
+    "XPU",
+    "oneAPI"
+  ]
+}

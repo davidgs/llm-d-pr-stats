@@ -1,0 +1,6 @@
+# pr_keyword_stats.py itself has no third-party dependencies (stdlib only)
+# and requires the GitHub CLI (`gh`) to be installed and authenticated:
+#   https://cli.github.com/
+#
+# make_charts.py needs matplotlib to render PNG charts from the CSV output:
+matplotlib>=3.7

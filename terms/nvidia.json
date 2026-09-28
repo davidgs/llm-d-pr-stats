@@ -1,0 +1,20 @@
+{
+  "label": "NVIDIA",
+  "description": "PRs related to NVIDIA hardware and software components (GPUs, CUDA, NIXL, TensorRT-LLM, Dynamo, etc.)",
+  "terms": [
+    "NVIDIA",
+    "NIXL",
+    "CUDA",
+    "TensorRT",
+    "TRTLLM",
+    "Nemotron",
+    "ModelExpress",
+    "gdrcopy",
+    "NVLink",
+    "nvcr.io",
+    "ai-dynamo",
+    "\"NVIDIA Dynamo\"",
+    "nvidia-smi",
+    "dra-driver-gpu"
+  ]
+}

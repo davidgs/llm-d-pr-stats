@@ -1,0 +1,14 @@
+{
+  "label": "AMD",
+  "description": "PRs related to AMD hardware and software components (GPUs, ROCm, MI300/MI325/MI355, MoRI, etc.)",
+  "terms": [
+    "AMD",
+    "ROCm",
+    "MI300",
+    "MI325",
+    "MI355",
+    "MoRI",
+    "HIP",
+    "\"AMD GPU\""
+  ]
+}
